@@ -13,7 +13,7 @@
 	<artifactId>numeric</artifactId>
 	<version>0.0.1</version>
 	<name>numeric</name>
-	<description>Demo for DevSecOps</description>
+	<description>Demo-for-DevSecOps</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
